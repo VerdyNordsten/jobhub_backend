@@ -23,7 +23,7 @@
   - [Prerequisites](#prerequisites)
   - [Requirements](#requirements)
   - [Installation](#installation)
-  - [Setup .env](#setup-env-example)
+  - [Setup .env](#setup-env)
 - [Related Project](#related-project)
 <!-- ABOUT THE PROJECT -->
 
@@ -127,7 +127,7 @@ cd jobhub_backend
 npm install
 ```
 
-- <a href="#setup-env-example">Setup .env</a>
+- <a href="#setup-env">Setup .env</a>
 - Starting application
 
 ```
@@ -140,7 +140,7 @@ npm install
   npm run lint
 ```
 
-### Setup .env example
+### Setup .env
 
 Create .env file in your root project folder.
 
