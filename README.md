@@ -3,7 +3,7 @@
 <div align="center">
 <img height="150" src="./documentation/logo.png" alt="Jobhub" border="0"/>
 </div>
-  <h3 align="center">Backend Jobhub</h3>
+  <h3 align="center">Jobhub Backend</h3>
   <p align="center">
     <a href="https://github.com/VerdyNordsten/jobhub_backend"><strong>Explore the docs »</strong></a>
     <br />
@@ -23,12 +23,8 @@
   - [Prerequisites](#prerequisites)
   - [Requirements](#requirements)
   - [Installation](#installation)
-  - [Setup .env example](#setup-env-example)
-- [Rest Api](#rest-api)
-- [Contributing](#contributing)
+  - [Setup .env](#setup-env-example)
 - [Related Project](#related-project)
-- [Contact](#contact)
-
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
